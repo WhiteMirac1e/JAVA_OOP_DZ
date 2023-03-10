@@ -1,3 +1,5 @@
+package JAVA_OOP_DZ;
+
 public class ToiletPaper extends Hygienics {
 
     private int layers;
